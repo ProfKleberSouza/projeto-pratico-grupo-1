@@ -1,18 +1,23 @@
-# TÍTULO DO PROJETO
+# ONG PUC-PSI: Sistema para Cadastro e Gerenciamento de Consultas Psicológicas
 
-`CURSO`
+`Sistemas de Informação - PUC Minas Contagem`
 
-`DISCIPLINA`
+`Desenvolvimento de Aplicações Distribuídas`
 
-`SEMESTRE`
+`2021_1`
 
 ## Participantes
 
 Os membros do grupo são: 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
+- Lucas Henrique Medeiros Alcântara
+- Nathan Soares De Faria
+- Osvaldo Joab Ramos 
+- Wellington Lopes Ferreira
+
+## Especificações do Projeto
+
+https://github.com/KleberSouza/psi
 
 # Documentação
 
