@@ -38,7 +38,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Membro da Comunidade| Realizar inscrição para atendimento| Receber atendimento psicológico        |
 |                    | psicológico	                      |                                        |
-|--------------------|------------------------------------|----------------------------------------|
 |Profissional de     |Realizar cadastro para atendimento  |Ser incluído no grupo de profissionais  |
 |Psicologia          |psicológico na ONG                  |que prestam serviços na ONG             |
 |--------------------|------------------------------------|----------------------------------------|
