@@ -36,11 +36,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Membro da Comunidade| Realizar inscrição para atendimento| Receber atendimento psicológico        |
-|                    | psicológico	                      |                                        |
-|Profissional de     |Realizar cadastro para atendimento  |Ser incluído no grupo de profissionais  |
-|Psicologia          |psicológico na ONG                  |que prestam serviços na ONG             |
-|--------------------|------------------------------------|----------------------------------------|
+|Membro da Comunidade| Realizar inscrição para atendimento psicológico| Receber atendimento psicológico        |
+|Profissional de Psicologia     |Realizar cadastro para atendimento psicológico na ONG |Ser incluído no grupo de profissionais que prestam serviços na ONG|
+
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
