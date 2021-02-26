@@ -13,7 +13,7 @@
 |Idade: 32 anos|Ocupação: Comerciária|Joana trabalha no comércio local e divide o tempo entre o trabalho, os cuidados da casa e da filha de 3 anos.|
 |<img src="../imgs/imagem2.jpg" width="100" height="120">| Ana Paula |Profissional de psicologia|
 |Idade: 26 anos|Ocupação: Psicóloga|Ana é psicológa voluntária na ONG, ela dedica plantões semanais ao atendimento da comunidade além de cuidar do seu consultório particular. Ana acredita que dedicando parte do seu tempo a uma atividade voluntária tem o poder de melhorar o mundo e aprimorar sua experiência.|
-|<img src="../imgs/imagem3.jpg" width="100" height="120">| João Santos |Secretário|
+|<img src="../imgs/imagem3.jpg" width="100" height="100">| João Santos |Secretário|
 |Idade: 21 anos|Ocupação: Secretário|João Santos é membro da comunidade e secretário na ONG. João fez seu curso superior em letras graças a ações sociais e agora quer dedicar seu tempo ajudando outras pessoas da comunidade.|
 
 > Enumere e detalhe as personas da sua solução. Para
