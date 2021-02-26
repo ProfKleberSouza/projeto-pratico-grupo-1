@@ -5,14 +5,7 @@ Em decorrência da pandemia causado pelo coronavírus, algumas atividades, princ
 
 ## Objetivos
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Com o intuito de informatizar e facilitar o trabalho da ONG PUC-PSI, este projeto tem como objetivo desenvolver um sistema de informação para gerenciamento de dados de consultas e informações gerais sobre a ONG, além de auxiliar no processo de agendamentos de consultas, sejam para consultas presenciais ou virtuais. O sistema a ser desenvolvido servirá também para facilitar o acesso à dados por parte de colaboradores que podem estar trabalhando em regime virtual, assim otimizando o serviço prestado.
 
 ## Justificativa
 
