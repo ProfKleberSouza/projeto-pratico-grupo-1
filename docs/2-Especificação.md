@@ -36,7 +36,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|<img src="../imgs/imagem1.jpg" width="100" height="150"> &nbsp; Joana Silva &nbsp; Membro da comunidade| Realizar inscrição para atendimento psicológico|Receber atendimento psicológico|
+|<img src="../imgs/imagem1.jpg" width="100" height="150">  Joana Silva  Membro da comunidade| Realizar inscrição para atendimento psicológico|Receber atendimento psicológico|
 |Profissional de Psicologia|Realizar cadastro para atendimento psicológico na ONG|Ser incluído no grupo de profissionais que prestam serviços na ONG|
 |Profissional de Psicologia|Preencher a ficha de atendimento de um paciente/cliente|Armazenar dados históricos dos atendimentos para controle e gestão|
 |Profissional de Psicologia|Cadastrar horário de atendimento na agenda, cada atendimento tem a duração de 50 minutos, com 10 de intervalo|Registrar a disponibilidade para atendimento|
