@@ -7,6 +7,9 @@
 > realizar a especificações do projeto
 
 ## Personas
+
+As personas levantadas durante o processo de entendimento do problema são apresentadas na tabela abaixo.
+
 |`Persona`|`Dados` |`Atividade`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |<img src="../imgs/imagem1.jpg" width="100" height="120">| Joana Silva |Membro da comunidade|
@@ -18,7 +21,7 @@
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
