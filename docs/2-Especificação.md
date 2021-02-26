@@ -7,7 +7,6 @@
 > realizar a especificações do projeto
 
 ## Personas
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |<img src="../imgs/imagem1.jpg" width="100" height="120">| Joana Silva |Membro da comunidade|
 |Idade: 32 anos|Ocupação: Comerciária|Joana trabalha no comércio local e divide o tempo entre o trabalho, os cuidados da casa e da filha de 3 anos.|
