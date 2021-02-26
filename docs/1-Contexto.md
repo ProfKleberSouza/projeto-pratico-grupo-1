@@ -9,17 +9,7 @@ Com o intuito de informatizar e facilitar o trabalho da ONG PUC-PSI, este projet
 
 ## Justificativa
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Impulsionado pela necessidade que ONGs como a PUC-PSI tem por um soluções para auxiliar e otimizar seus processos de consultas psicológicas em momentos atípicos como o de uma pandemia, este projeto vê como necessidade a implementação de um sistema de informação que provê uma solução efetiva para o gerenciamento de dados e marcação de consultas psicológicas.
 
 ## Público-Alvo
 
