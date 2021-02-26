@@ -36,9 +36,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|<p align="left">
-  <img src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.portraitsofthepeople.com%2F&psig=AOvVaw0wBKmHQ_Z6ZyAkcKo_-Ocw&ust=1614459502213000&source=images&cd=vfe&ved=2ahUKEwi3tKu6uIjvAhUZNbkGHbekDGQQjRx6BAgAEAc" width="350">
-</p>| Realizar inscrição para atendimento psicológico|Receber atendimento psicológico|
+|<img src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.portraitsofthepeople.com%2F&psig=AOvVaw0wBKmHQ_Z6ZyAkcKo_-Ocw&ust=1614459502213000&source=images&cd=vfe&ved=2ahUKEwi3tKu6uIjvAhUZNbkGHbekDGQQjRx6BAgAEAc" width="350">| Realizar inscrição para atendimento psicológico|Receber atendimento psicológico|
 |Profissional de Psicologia|Realizar cadastro para atendimento psicológico na ONG|Ser incluído no grupo de profissionais que prestam serviços na ONG|
 |Profissional de Psicologia|Preencher a ficha de atendimento de um paciente/cliente|Armazenar dados históricos dos atendimentos para controle e gestão|
 |Profissional de Psicologia|Cadastrar horário de atendimento na agenda, cada atendimento tem a duração de 50 minutos, com 10 de intervalo|Registrar a disponibilidade para atendimento|
