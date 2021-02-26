@@ -39,9 +39,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| Permitir ao Membro da Comunidade realizar inscrição para atendimento psicológico. | ALTA | 
+|RF-002| Permitir ao Profissional de Psicologia realizar cadastro para atendimento psicológico na ONG.    | MÉDIA |
+|RF-003| Permitir ao Profissional de Psicologia preencher a ficha de atendimento de um paciente/cliente. | ALTA |
+|RF-004| Permitir ao Profissional de Psicologia cadastrar horário de atendimento na agenda. Cada atendimento tem a duração de 50 minutos, com 10 de intervalo. | ALTA |
+|RF-005| Permitir ao Profissional de Profissional de Psicologia excluir horário de atendimento da agenda. A exclusão só é permitida quando um agendamento não está associado. | ALTA |
+|RF-006| Permitir a Secretária criar os agendamentos psicológicos, associando os paciente/cliente com o Profissional de Psicologia que fará o atendimento | ALTA |
+|RF-007| Permitir a Secretária desmarcar agendamentos psicológicos | ALTA |
+|RF-008| Permitir que a Secretária visualize a ficha de inscrição do Membro da Comunidade. | ALTA |
+|RF-009| Permitir que a Secretária aprove ou rejeite uma ficha de inscrição de um Membro da Comunidade. Ao aprovar uma ficha, criar um registro efetivo para o Membro da Comunidade. A partir desse momento o Membro da Comunidade poderá ser atendido. | ALTA |
+|RF-010| Permitir que a Secretária visualize a ficha de inscrição do Profissional de Psicologia. | ALTA |
+|RF-011| Permitir que a Secretária aprove ou rejeite uma ficha de inscrição de um Profissional de Psicologia. Ao aprovar uma ficha, criar um registro efetivo para o Profissional de Psicologia. A partir desse momento o Profissional de Psicologia poderá realizar atendimentos. | ALTA |
+|RF-012| Permitir que a Secretária visualize se um Membro da Comunidade está sem agenda. Se tiver agendamento marcado, visualizar em dias o próximo agendamento. | ALTA |
 
 ### Requisitos não Funcionais
 
