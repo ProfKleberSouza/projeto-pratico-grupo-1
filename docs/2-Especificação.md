@@ -2,10 +2,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
-
 ## Personas
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na tabela abaixo.
@@ -42,7 +38,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir ao Membro da Comunidade realizar inscrição para atendimento psicológico. | ALTA | 
-|RF-002| Permitir ao Profissional de Psicologia realizar cadastro para atendimento psicológico na ONG.    | MÉDIA |
+|RF-002| Permitir ao Profissional de Psicologia realizar cadastro para atendimento psicológico na ONG.    | ALTA |
 |RF-003| Permitir ao Profissional de Psicologia preencher a ficha de atendimento de um paciente/cliente. | ALTA |
 |RF-004| Permitir ao Profissional de Psicologia cadastrar horário de atendimento na agenda. Cada atendimento tem a duração de 50 minutos, com 10 de intervalo. | ALTA |
 |RF-005| Permitir ao Profissional de Profissional de Psicologia excluir horário de atendimento da agenda. A exclusão só é permitida quando um agendamento não está associado. | ALTA |
@@ -52,7 +48,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF-009| Permitir que a Secretária aprove ou rejeite uma ficha de inscrição de um Membro da Comunidade. Ao aprovar uma ficha, criar um registro efetivo para o Membro da Comunidade. A partir desse momento o Membro da Comunidade poderá ser atendido. | ALTA |
 |RF-010| Permitir que a Secretária visualize a ficha de inscrição do Profissional de Psicologia. | ALTA |
 |RF-011| Permitir que a Secretária aprove ou rejeite uma ficha de inscrição de um Profissional de Psicologia. Ao aprovar uma ficha, criar um registro efetivo para o Profissional de Psicologia. A partir desse momento o Profissional de Psicologia poderá realizar atendimentos. | ALTA |
-|RF-012| Permitir que a Secretária visualize se um Membro da Comunidade está sem agenda. Se tiver agendamento marcado, visualizar em dias o próximo agendamento. | ALTA |
+|RF-012| Permitir que a Secretária visualize se um Membro da Comunidade está sem agenda. Se tiver agendamento marcado, visualizar em dias o próximo agendamento. | MÉDIA |
 
 ### Requisitos não Funcionais
 
@@ -62,9 +58,11 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |-------|-------------------------|----|
 |RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet. | ALTA | 
 |RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada. |  ALTA | 
-|RNF-002| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. |  MÉDIA | 
-|RNF-002| O site deve apresentar uma linguagem ubíqua, de acordo com cada tipo de usário. Não deve ser usado termos técnicos para o Membro da Comunidade. Convém usar termos técnicos para os Profissional de Psicologia.  |  ALTA | 
-|RNF-002| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  ALTA | 
+|RNF-003| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. |  MÉDIA | 
+|RNF-004| O site deve apresentar uma linguagem ubíqua, de acordo com cada tipo de usário. Não deve ser usado termos técnicos para o Membro da Comunidade. Convém usar termos técnicos para os Profissional de Psicologia.  |  ALTA | 
+|RNF-005| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  ALTA | 
+|RNF-006| Todo o back-end do sistema será desenvolvido utilizando a linguagem C# |  ALTA |
+|RNF-007| Todo o sistema será hospedado na nuvem, dessa forma não haverá a necessidade de servidores físicos. |  ALTA |
 
 ## Restrições
 
@@ -73,5 +71,3 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 31/05/2021. |
-|02| Todo o back-end do sistema será desenvolvido utilizando a linguagem C# |
-|03| Todo o sistema será hospedado na nuvem, dessa forma não haverá a necessidade de servidores físicos. |
